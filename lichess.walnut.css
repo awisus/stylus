@@ -17,7 +17,7 @@ square.premove-dest{
 	background-image: radial-gradient(rgba(0, 0, 0, 0.1) 22%, rgba(0, 0, 0, 0) 23%) !important;
 }
 square.move-dest:hover,
-square.premove-dest:hover{
+square.premove-dest:hover {
 	outline-color: hsla(0, 100%, 100%, 0.65);
 	outline-style: solid;
 	outline-width: 4px;
@@ -32,13 +32,6 @@ square.premove-dest.oc {
 	border-color: rgba(0, 0, 0, 0.1) !important;
 	border-radius: 50% !important;
 	border-width: 10px !important;
-}
-square.move-dest.oc:hover,
-square.premove-dest.oc:hover {
-	background-color: rgba(0, 0, 0, 0.1) !important;
-    
-    border: none !important;
-	border-radius: 0 !important;
 }
 
 cg-board {
