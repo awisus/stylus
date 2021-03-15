@@ -20,8 +20,8 @@ square.move-dest:hover,
 square.premove-dest:hover {
 	outline-color: hsla(0, 100%, 100%, 0.65);
 	outline-style: solid;
-	outline-width: 4px;
-    outline-offset: -4px;
+	outline-width: 5px;
+    outline-offset: -5px;
 }
 
 square.move-dest.oc,
